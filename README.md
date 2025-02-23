@@ -11,10 +11,7 @@
 이를 컬러로 변환하면 과거의 순간을 현대적이고 생생하게 보존할 수 있을 것
 
 ## 팀원
-- 이승윤: 서버
-- 곽희원: 서버, 프론트
-- 준호(from Oʻzbekiston Respublikasi Republic of Uzbekistan): 프론트
-- 서성원: 딥러닝, 서버
+- 이승윤, 곽희원, 준호(from Uzbekistan), 서성원
 
 ## 개발 기간
 2023.03. ~ 11.
@@ -32,10 +29,7 @@
 <div align=center>
   <img src="https://img.shields.io/badge/Java-437291?style=plastic&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=androidstudio&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>
-  <br>
 </div>
