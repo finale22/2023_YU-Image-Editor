@@ -24,7 +24,7 @@
 
 ![image](https://github.com/user-attachments/assets/b1ff747f-12c3-4fb0-8ce8-8b560dcbb95e)
 
-**모델 학습 후 실제 흑백 사진을 컬러로 변환했을 떄**
+**모델 학습 후 실제 흑백 사진을 컬러로 변환했을 때**
 
 ![image](https://github.com/user-attachments/assets/98791762-a871-45c3-b722-3d80838fb9c7) ![image](https://github.com/user-attachments/assets/66fc8be3-8b5d-471f-b01f-b7c2b4e9ab55)
 
@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=androidstudio&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>
   <br>
